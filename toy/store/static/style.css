@@ -1,0 +1,15 @@
+#head{
+    width: auto;
+    height: 150px;
+    background-color: blueviolet;
+}
+#body{
+    width: auto;
+    height: 150px;
+    background-color: cornflowerblue;
+}
+#foot{
+    width:auto ;
+    height: 150px;
+    background-color: gold;
+}
